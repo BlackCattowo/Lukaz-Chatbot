@@ -1,3 +1,4 @@
 # Lukaz-Chatbot
-Um Chatbot em desenvolvimento que roda em python.
-Atualmente na versão 5.3
+Um Chatbot em desenvolvimento.
+Anteriormente feito interamente em Python, mas agora sendo traduzido para C++
+Atualmente na versão 2.0
